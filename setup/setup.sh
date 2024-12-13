@@ -90,7 +90,7 @@ setup_environment() {
    DEAD_LETTER="${USERID}deadletter"
 
     # Event Grid IPs
-    PROXY_IP="4.217.249.140"
+    PROXY_IP="20.214.194.93"
     ASYNC_PUBIP="20.249.201.23"
     SUB_ENDPOINT=""
 
